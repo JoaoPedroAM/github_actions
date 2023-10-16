@@ -1,0 +1,6 @@
+Testes Funcionais:
+
+Testam se o software faz o que foi planejado e prometido.
+Testes Não Funcionais:
+
+Testam como o software se comporta em situações diversas, como velocidade, facilidade de uso e segurança.
